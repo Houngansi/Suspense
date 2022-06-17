@@ -1,5 +1,4 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
-
 using UnrealBuildTool;
 using System.Collections.Generic;
 
@@ -11,4 +10,9 @@ public class SuspenseTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.Add("Suspense");
 	}
+}
+
+public class UActor
+{
+	public string Name { get; set; }
 }
