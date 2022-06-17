@@ -11,8 +11,3 @@ public class SuspenseTarget : TargetRules
 		ExtraModuleNames.Add("Suspense");
 	}
 }
-
-public class UActor
-{
-	public string Name { get; set; }
-}
