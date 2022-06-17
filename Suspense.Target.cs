@@ -1,5 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.hello world
-
+// Copyright Epic Games, Inc. All Rights Reserved.
 using UnrealBuildTool;
 using System.Collections.Generic;
 
